@@ -1,5 +1,6 @@
 # Smart Orifice Flow Measurement System
-![SolidWorks Simulation of Flow]([https://github.com/user-attachments/assets/e7080981-353d-4295-8b8c-383c63ce9e66])
+![SolidWorks Simulation of Flow]
+![Image](https://github.com/user-attachments/assets/752996d7-5ade-42c1-81fa-e24272f47b1e)
 ## Badges
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat)]()
