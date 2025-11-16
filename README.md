@@ -1,6 +1,7 @@
 # Smart Orifice Flow Measurement System
 
 SolidWorks Simulation of Flow
+
 ![Image](https://github.com/user-attachments/assets/752996d7-5ade-42c1-81fa-e24272f47b1e)
 
 ## Badges
@@ -94,6 +95,7 @@ Flow Rate Monitoring Over Time
 <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/982ee0b8-6d91-4687-9b33-3b6cf1df2ba1">
 
 Characteristic Curve (Q vs. Δh)
+
 <img width="1000" height="600" alt="Image" src="https://github.com/user-attachments/assets/70867495-a85a-49c0-8138-25d57e380ddc">
 
 - Achieves **±2.8% full-span accuracy** confirmed against manual measurements.
