@@ -1,5 +1,5 @@
 # Smart Orifice Flow Measurement System
-
+![SolidWorks Simulation of Flow]([])
 ## Badges
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat)]()
@@ -85,7 +85,8 @@ This repository contains a professional-grade flow measurement system integratin
 4.  **Operation:** Enter these values into the `Main_Firmware.ino`, upload, and run `main_dashboard.py` to see live data.
 
 ## 9. Experimental Results
-
+![Characteristic Curve (Q vs. Δh)]([https://github.com/muhammedalf909/Smart-Orifice-Flow-System/blob/main/results_curve-2.png?raw=true])
+![Flow Rate Monitoring Over Time]([https://github.com/muhammedalf909/Smart-Orifice-Flow-System/blob/main/results_curve-1.png?raw=true])
 - Achieves **±2.8% full-span accuracy** confirmed against manual measurements.
 - Real-time visualization curve shows close match between experiment and theory.
 - System repeatability: ±0.01 L/s; response time: <1.2 seconds.
