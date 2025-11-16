@@ -93,7 +93,7 @@ This repository contains a professional-grade flow measurement system integratin
 
 ## 10. Safety & Handling
 
-- ⚠️ **CCL4 is toxic:** Handle in a ventilated area, use nitrile gloves, and consider mineral oil substitution (which requires recalibration).
+-  **CCL4 is toxic:** Handle in a ventilated area, use nitrile gloves, and consider mineral oil substitution (which requires recalibration).
 - Arduino and electronics operate at safe 5V levels.
 - Standard lab safety protocols apply.
 
