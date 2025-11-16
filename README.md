@@ -86,7 +86,7 @@ This repository contains a professional-grade flow measurement system integratin
 
 ## 9. Experimental Results
 ![Characteristic Curve (Q vs. Δh)]([https://github.com/user-attachments/assets/95a1b78d-6919-42e7-acf8-334d3ab18bc7])
-![Flow Rate Monitoring Over Time]([https://github.com/user-attachments/assets/d38da959-4ac2-4456-8791-170c19bf9a95])
+![Flow Rate Monitoring Over Time]([https://github.com/muhammedalf909/Smart-Orifice-Flow-System/raw/main/results_curve-1.png])
 - Achieves **±2.8% full-span accuracy** confirmed against manual measurements.
 - Real-time visualization curve shows close match between experiment and theory.
 - System repeatability: ±0.01 L/s; response time: <1.2 seconds.
