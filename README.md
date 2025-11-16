@@ -82,7 +82,7 @@ This repository contains a professional-grade flow measurement system integratin
 1.  **Mechanical Assembly:** Follow checklist; ensure proper installation of orifice plate, flow conditioner, manometer tubing, and electrodes.
 2.  **Electronic Setup:** Arduino mounting, wiring LCD and sensor, upload `1_Calibration_Code.ino`.
 3.  **Calibration:** Run `calibration_logger.py` script with known fluid levels (0% and 100% flow) to get `MIN` and `MAX` values.
-4.  **Operation:** Enter these values into the `2_Main_Firmware.ino`, upload, and run `main_dashboard.py` to see live data.
+4.  **Operation:** Enter these values into the `Main_Firmware.ino`, upload, and run `main_dashboard.py` to see live data.
 
 ## 9. Experimental Results
 
